@@ -1,3 +1,6 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/daniel-c-rdenas-luengo/pen/XPWPZN.
+<h1>Minimal Music Player</h1>
 
- Bringing Charles Patterson's dribbble work live! Here I used HTML5 canvas to fetch image's average color and add a nice looking shadow. Hope you enjoy it!
+<p>Este codigo fue creado Charles Patterson, subido por Daniel cardenas Luengo, y lo puedes encontrar<a href="https://codepen.io/daniel-c-rdenas-luengo/pen/XPWPZN.">aquí.
+<p>Credito a los creadores.</p>
+
+<h2>¡Muchas Gracias!</h2>
