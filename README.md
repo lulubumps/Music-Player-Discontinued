@@ -1,4 +1,4 @@
-#Music Player (Descontinuado)
+# Music Player (Descontinuado)
 Este proyecto fue usado con fines educacionales. "Music Player" fue el código utilizado para el proyecto [Jughead Music](https://github.com/lulubumps/Jughead-Music-Discontinued-), basado en PHP.
 
 ### Pre-requisitos 📋
